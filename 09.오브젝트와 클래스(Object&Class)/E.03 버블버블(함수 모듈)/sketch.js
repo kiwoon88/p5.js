@@ -1,4 +1,3 @@
-
 let x=[], y=[], d=[];
 let bubbles = 1000;
 
