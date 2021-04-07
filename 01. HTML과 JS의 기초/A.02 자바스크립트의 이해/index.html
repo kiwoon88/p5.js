@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>박기운의 코딩캠프</title>
+  </head>
+  
+  <body bgcolor="#FFFF00">
+    <h2>Javascript</h2>
+    <hr>
+    <p>캔버스를 만들어 캔버스에 사각형과 원을 그리기 위한 작업입니다.</p>
+    <canvas id="myCanvas" width="300" height="300" style="border:1px solid #0000FF;">
+    <script>
+        var canvas = document.getElementById("myCanvas");
+        var a = canvas.getContext("2d");
+        a.rect(0, 0, 100, 75);
+        a.fillStyle = "#FF0000";
+        a.fill();
+        a.strokeStyle ="#000000"
+        a.stroke();
+        a.beginPath();
+        a.arc(200, 200, 100, 0, Math.PI*2);
+        a.fillStyle = "#FF00FF"
+        a.fill();
+        a.strokeStyle ="#00FF00"
+        a.stroke(); 
+    </script>
+  </body>
+</html>
