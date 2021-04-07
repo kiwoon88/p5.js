@@ -1,4 +1,3 @@
-
 let bubble1 = {x: 100, y:420, d: 30};
 let bubble2 = {x: 300, y:450, d: 25};
 
