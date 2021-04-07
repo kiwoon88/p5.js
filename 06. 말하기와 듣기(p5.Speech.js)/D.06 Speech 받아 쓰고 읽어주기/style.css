@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'JSArirangHON-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/JSArirangHON-RegularA1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html, body {  
+  font-family:'아리랑', 'JSArirangHON-Regular';
+  font-size: 24pt;
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
