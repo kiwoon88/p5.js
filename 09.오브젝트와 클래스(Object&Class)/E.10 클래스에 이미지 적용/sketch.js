@@ -25,7 +25,6 @@ function draw() {
   }
 }
 
-
 class Face{
   constructor(w, h){
     this.x = random(width-w);
