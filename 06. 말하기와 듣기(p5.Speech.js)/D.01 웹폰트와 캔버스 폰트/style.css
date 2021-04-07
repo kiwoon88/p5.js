@@ -1,0 +1,11 @@
+
+html, body, button {
+  font-family: 'SDKukdetopokki-Lt'; 
+  font-size: 32pt;
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
