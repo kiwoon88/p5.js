@@ -2,7 +2,7 @@ let movie;
 
 function setup() {
   noCanvas();
-  movie = createVideo('data/light.mp4', playMovie);
+  movie = createVideo('light.mp4', playMovie);
   movie.size(360,240);
 }
 
