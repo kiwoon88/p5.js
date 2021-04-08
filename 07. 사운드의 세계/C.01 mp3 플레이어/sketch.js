@@ -5,8 +5,8 @@ let btn;
 let vol;
 
 function preload(){
-  img = loadImage("data/oldpop.jpg");
-  song = loadSound("data/popsong.mp3");
+  img = loadImage("oldpop.jpg");
+  song = loadSound("wonderful.mp3");
 }  
 
 function setup() {
