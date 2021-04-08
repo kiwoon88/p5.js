@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<response>
+	<header>
+		<resultCode>00</resultCode>
+		<resultMsg>NORMAL SERVICE.</resultMsg>
+	</header>
+	<body>
+		<items>
+			
+				<item>
+					<stationName>논현</stationName>
+					
+                        <mangName>도시대기</mangName>
+                    
+					<dataTime>2020-12-13 21:00</dataTime>
+					<so2Value>0.003</so2Value>
+					<coValue>0.4</coValue>
+					<o3Value>0.025</o3Value>
+					<no2Value>0.014</no2Value>
+					<pm10Value>19</pm10Value>
+					
+                        <pm10Value24>25</pm10Value24>
+                    
+					
+				        <pm25Value>13</pm25Value>
+				    
+				    
+                        <pm25Value24>16</pm25Value24>
+                    
+					<khaiValue>51</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>1</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+				        <pm25Grade>2</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>1</pm10Grade1h>
+                        <pm25Grade1h>1</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>영흥</stationName>
+					
+                        <mangName>도시대기</mangName>
+                    
+					<dataTime>2020-12-13 21:00</dataTime>
+					<so2Value>0.004</so2Value>
+					<coValue>0.3</coValue>
+					<o3Value>0.034</o3Value>
+					<no2Value>0.004</no2Value>
+					<pm10Value>15</pm10Value>
+					
+                        <pm10Value24>24</pm10Value24>
+                    
+					
+				        <pm25Value>9</pm25Value>
+				    
+				    
+                        <pm25Value24>17</pm25Value24>
+                    
+					<khaiValue>54</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+				        <pm25Grade>2</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>1</pm10Grade1h>
+                        <pm25Grade1h>1</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>석바위</stationName>
+					
+                        <mangName>도로변대기</mangName>
+                    
+					<dataTime>2020-12-13 21:00</dataTime>
+					<so2Value>0.004</so2Value>
+					<coValue>0.5</coValue>
+					<o3Value>0.024</o3Value>
+					<no2Value>0.018</no2Value>
+					<pm10Value>21</pm10Value>
+					
+                        <pm10Value24>23</pm10Value24>
+                    
+					
+				        <pm25Value>13</pm25Value>
+				    
+				    
+                        <pm25Value24>15</pm25Value24>
+                    
+					<khaiValue>50</khaiValue>
+					<khaiGrade>1</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>1</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+				        <pm25Grade>1</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>1</pm10Grade1h>
+                        <pm25Grade1h>1</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>운서</stationName>
+					
+                        <mangName>도시대기</mangName>
+                    
+					<dataTime>2020-12-13 21:00</dataTime>
+					<so2Value>0.003</so2Value>
+					<coValue>0.4</coValue>
+					<o3Value>0.027</o3Value>
+					<no2Value>0.005</no2Value>
+					<pm10Value>11</pm10Value>
+					
+                        <pm10Value24>18</pm10Value24>
+                    
+					
+				        <pm25Value>6</pm25Value>
+				    
+				    
+                        <pm25Value24>11</pm25Value24>
+                    
+					<khaiValue>45</khaiValue>
+					<khaiGrade>1</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>1</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+				        <pm25Grade>1</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>1</pm10Grade1h>
+                        <pm25Grade1h>1</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>송해</stationName>
+					
+                        <mangName>도시대기</mangName>
+                    
+					<dataTime>2020-12-13 21:00</dataTime>
+					<so2Value>0.003</so2Value>
+					<coValue>0.3</coValue>
+					<o3Value>0.031</o3Value>
+					<no2Value>0.004</no2Value>
+					<pm10Value>18</pm10Value>
+					
+                        <pm10Value24>22</pm10Value24>
+                    
+					
+				        <pm25Value>7</pm25Value>
+				    
+				    
+                        <pm25Value24>14</pm25Value24>
+                    
+					<khaiValue>51</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+				        <pm25Grade>1</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>1</pm10Grade1h>
+                        <pm25Grade1h>1</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>연평도</stationName>
+					
+                        <mangName>국가배경농도</mangName>
+                    
+					<dataTime>2020-12-13 21:00</dataTime>
+					<so2Value>0.002</so2Value>
+					<coValue>0.3</coValue>
+					<o3Value>0.036</o3Value>
+					<no2Value>0.005</no2Value>
+					<pm10Value>24</pm10Value>
+					
+                        <pm10Value24>25</pm10Value24>
+                    
+					
+				        <pm25Value>7</pm25Value>
+				    
+				    
+                        <pm25Value24>12</pm25Value24>
+                    
+					<khaiValue>55</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+				        <pm25Grade>1</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>1</pm10Grade1h>
+                        <pm25Grade1h>1</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>중봉</stationName>
+					
+                        <mangName>도로변대기</mangName>
+                    
+					<dataTime>2020-12-13 21:00</dataTime>
+					<so2Value>0.003</so2Value>
+					<coValue>0.3</coValue>
+					<o3Value>0.034</o3Value>
+					<no2Value>0.006</no2Value>
+					<pm10Value>-</pm10Value>
+					
+                        <pm10Value24>-</pm10Value24>
+                    
+					
+				        <pm25Value>11</pm25Value>
+				    
+				    
+                        <pm25Value24>16</pm25Value24>
+                    
+					<khaiValue>-</khaiValue>
+					<khaiGrade></khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade></pm10Grade>
+					
+				        <pm25Grade>2</pm25Grade>
+				    
+				    
+                        <pm10Grade1h></pm10Grade1h>
+                        <pm25Grade1h>1</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>숭의</stationName>
+					
+                        <mangName>도시대기</mangName>
+                    
+					<dataTime>2020-12-13 21:00</dataTime>
+					<so2Value>0.003</so2Value>
+					<coValue>0.5</coValue>
+					<o3Value>0.023</o3Value>
+					<no2Value>0.014</no2Value>
+					<pm10Value>20</pm10Value>
+					
+                        <pm10Value24>27</pm10Value24>
+                    
+					
+				        <pm25Value>12</pm25Value>
+				    
+				    
+                        <pm25Value24>18</pm25Value24>
+                    
+					<khaiValue>56</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>1</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+				        <pm25Grade>2</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>1</pm10Grade1h>
+                        <pm25Grade1h>1</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>송도</stationName>
+					
+                        <mangName>도시대기</mangName>
+                    
+					<dataTime>2020-12-13 21:00</dataTime>
+					<so2Value>0.002</so2Value>
+					<coValue>0.3</coValue>
+					<o3Value>0.031</o3Value>
+					<no2Value>0.005</no2Value>
+					<pm10Value>12</pm10Value>
+					
+                        <pm10Value24>20</pm10Value24>
+                    
+					
+				        <pm25Value>4</pm25Value>
+				    
+				    
+                        <pm25Value24>13</pm25Value24>
+                    
+					<khaiValue>51</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+				        <pm25Grade>1</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>1</pm10Grade1h>
+                        <pm25Grade1h>1</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>석모리</stationName>
+					
+                        <mangName>교외대기</mangName>
+                    
+					<dataTime>2020-12-13 21:00</dataTime>
+					<so2Value>0.002</so2Value>
+					<coValue>0.5</coValue>
+					<o3Value>0.032</o3Value>
+					<no2Value>0.004</no2Value>
+					<pm10Value>20</pm10Value>
+					
+                        <pm10Value24>22</pm10Value24>
+                    
+					
+				        <pm25Value>11</pm25Value>
+				    
+				    
+                        <pm25Value24>15</pm25Value24>
+                    
+					<khaiValue>52</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+				        <pm25Grade>1</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>1</pm10Grade1h>
+                        <pm25Grade1h>1</pm25Grade1h>
+                    
+				</item>
+			
+		</items>
+			<numOfRows>10</numOfRows>
+			<pageNo>1</pageNo>
+			<totalCount>35</totalCount>
+	</body>
+</response>
