@@ -1,0 +1,9 @@
+html, body {
+  background-image: url('https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA5MjZfMTMx%2FMDAxNjAxMTE4MDM4NTkz.j_wcuhLynmT-MVETzt6D5q656qpH2aSkdAxa_2QNgocg.rPbEkxc4M0SUGXBnMMIVkyHjOtTyl8a_NrdrNj3epo4g.PNG.ljh3047063%2Fsdfsdf.PNG&type=sc960_832');
+  background-color: #AABB00;
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
