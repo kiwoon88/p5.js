@@ -9,7 +9,7 @@ const options = {
 }
 
 function preload(){
-    img = loadImage('face1.jpg')
+    img = loadImage('face1.png')
 }
 
 function setup() {
