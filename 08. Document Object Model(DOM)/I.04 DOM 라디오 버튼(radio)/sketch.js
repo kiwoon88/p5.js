@@ -2,10 +2,10 @@ let radio;
 let img=[];
 
 function preload(){
-  img[0] = loadImage('data/1.jpg');
-  img[1] = loadImage('data/2.jpg');
-  img[2] = loadImage('data/3.jpg');
-  img[3] = loadImage('data/4.jpg');
+  img[0] = loadImage('1.jpg');
+  img[1] = loadImage('2.jpg');
+  img[2] = loadImage('3.jpg');
+  img[3] = loadImage('4.jpg');
 }
 
 function setup() {
