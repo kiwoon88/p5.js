@@ -3,7 +3,7 @@ let facemesh;
 let predictions;
 
 function preload(){
-  img = loadImage('face.png', imageReady);
+  img = loadImage('face1.png', imageReady);
 }
 
 function setup() {
