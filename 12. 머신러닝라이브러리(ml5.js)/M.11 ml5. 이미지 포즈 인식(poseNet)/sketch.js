@@ -1,4 +1,4 @@
-let img1, img2;
+let img1;
 let size=0;
 let poseNet;
 let poses=[];
@@ -7,8 +7,7 @@ let keypointY=[];
 let skeletons=[];
 
 function preload(){
-  img1 = loadImage('soccer.jpg');
-  img2 = loadImage('face.png');
+  img1 = loadImage('soccer3.jpg');
 }
 
 function setup() {
@@ -41,8 +40,5 @@ function gotResult(results){
     line(round(skeletons[i][0].position.x), round(skeletons[i][0].position.y), round(skeletons[i][1].position.x), round(skeletons[i][1].position.y));
   }
   size = dist(keypointX[0],keypointY[0],keypointX[3],keypointY[3]);
-  imageMode(CENTER);
-  fill(255, 255, 0, 200);
-  image(img2,keypointX[0]-3,keypointY[0]-13,size*1.8,size*1.8);
   console.log(poses);
 }
