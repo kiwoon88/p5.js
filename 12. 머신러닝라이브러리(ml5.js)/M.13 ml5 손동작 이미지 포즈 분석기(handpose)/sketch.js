@@ -5,7 +5,7 @@ let keypointX = [];
 let keypointY = [];
 
 function preload(){
-  img = loadImage('data/paper1.png');
+  img = loadImage('paper1.png');
 }
 
 function setup() {
