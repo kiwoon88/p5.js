@@ -3,7 +3,7 @@ let n = 0;
 let itemName = [];
 
 function preload(){
-  let file = 'MesureDnsty.txt';
+  let file = 'MesureDnsty.xml';
   xml = loadXML(file);  
 }
 
