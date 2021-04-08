@@ -2,7 +2,7 @@ let img;
 let imgClassifier;
 
 function preload(){
-  img = loadImage('data/animal1.jpg');
+  img = loadImage('animal1.jpg');
 }
 
 function setup() {
